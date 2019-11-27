@@ -1,3 +1,3 @@
-# pandas
+# Pandas
 
-Tutorial introdutório da biblioteca pandas
+Introdução sobre a biblioteca Pandas afim de auxiliar no estudo de análise de dados.
